@@ -9,6 +9,6 @@ I make mod for Terraria my [Steam](https://steamcommunity.com/profiles/765611994
 ![](https://github-readme-stats.vercel.app/api?username=Sernk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sernk&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://nirzak-streak-stats.vercel.app/?user=Sernk&theme=dark&hide_border=false)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
